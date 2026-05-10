@@ -2,7 +2,6 @@
 {
     "name": "SharpWMI",
     "version": "0.0.1",
-    "uuid": "31a9c4a8-8bd1-43fa-b277-72b6df8ef8bf",
     "command": "sharp-wmi",
     "type": ".net",
     "repository": "https://github.com/nukeratarmory/SharpWMI",
